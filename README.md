@@ -27,4 +27,4 @@ See pinned repositories for more!
 ## 📫 Let's Connect
 
 - 📧 cs23btech11011@iith.ac.in  
-- 🔗 [LinkedIn](www.linkedin.com/in/lokesh-reddy-bolla-b14109295)  
+- 🔗 LinkedIn: [linkedin.com/in/lokesh-reddy-bolla-b14109295](https://www.linkedin.com/in/lokesh-reddy-bolla-b14109295)
