@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi there, I'm Lokesh Reddy!
 
-<!--
-**lokeshreddy2005/lokeshreddy2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CS Undergrad @ IIT Hyderabad  
+💻 Passionate about Machine Learning, Web Development, and Systems Programming  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+- 🧩 **Multithreaded Sudoku Validator** – Used custom mutual exclusion techniques (TAS, CAS)  
+- 🌐 **Events Page – EBSB-IITH** – Dynamic React + Next.js site for college events  
+- 🌳 **B-Tree, Red-Black Tree, 2-3-4 Tree** – C++ implementations with advanced operations
+
+See pinned repositories for more!
+
+---
+
+## 💻 Skills & Tools
+
+- **Languages**: Python, C++, JavaScript, RISC-V Assembly  
+- **ML Libraries**: scikit-learn, pandas, matplotlib  
+- **Web**: React, Next.js  
+- **Tools**: Git, Linux, MySQL, VS Code, Colab
+
+---
+
+## 📫 Let's Connect
+
+- 📧 cs23btech11011@iith.ac.in  
+- 🌐 [LinkedIn](www.linkedin.com/in/lokesh-reddy-bolla-b14109295)  
