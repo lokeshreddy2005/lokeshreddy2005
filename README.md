@@ -9,7 +9,6 @@
 
 - 🧩 **Multithreaded Sudoku Validator** – Used custom mutual exclusion techniques (TAS, CAS)  
 - 🌐 **Events Page – EBSB-IITH** – Dynamic React + Next.js site for college events  
-- 🌳 **B-Tree, Red-Black Tree, 2-3-4 Tree** – C++ implementations with advanced operations
 
 See pinned repositories for more!
 
@@ -17,7 +16,7 @@ See pinned repositories for more!
 
 ## 💻 Skills & Tools
 
-- **Languages**: Python, C++, JavaScript, RISC-V Assembly  
+- **Languages**: Python, C, C++, JavaScript, RISC-V Assembly  
 - **ML Libraries**: scikit-learn, pandas, matplotlib  
 - **Web**: React, Next.js  
 - **Tools**: Git, Linux, MySQL, VS Code, Colab
